@@ -1,4 +1,3 @@
-#Range Sensor
 This project is a college activity, from Instituto Federal de Educação, Ciência
 e Tecnologia do Ceará. The mainly goal is to build a automatic ball balancing
 beam, with a FPGA board and VHDL hardware description language. 
