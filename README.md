@@ -1,4 +1,9 @@
-# range_sensor
+# :calling: ultrasonic-range-sensor
+
+<p align="center">
+  <img src="images/fpga_with_sensor.jpg" width="400" alt="accessibility text">
+</p>
+
 This repository is a college activity for the Laboratório de Sistemas Digitais (LSD), from Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE). The mainly goal is to build a ultrasonic distance sensor, using a Ultrasonic Ranging Module HC-SR04 and the QB-FPGA200EP2C Starter Kit.
 
 ## Sources
